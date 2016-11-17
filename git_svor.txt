@@ -30,4 +30,6 @@ Git spurningar og svör
 	Hægt er að finna með git og kalla upp útgáfuna sem bætti inn ákveðnum bug í verkefnið - minna af upplýsingum til þess að fara í gegnum.
 	Það eru margar fleiri ástæður en þetta ætti að vera nóg.
 
-	
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+	Í hvert skipti sem notandi er kominn með eitthvað sem virkar, þegar það er orðið langt síðan að notandi commitaði seinast - ætti samt að committa þá á nýja grein ef kóðinn er ókláraður.
+	Að committa oft er góð vörn gegn gagnatapi, rafmagnið fer af, windows update fer í gang, batteríið í fartölvunni er búið eða hvað sem kemur uppá.
