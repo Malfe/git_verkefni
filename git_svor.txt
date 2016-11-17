@@ -20,3 +20,6 @@ Git spurningar og svör
 	a) git diff                 : ber saman working directory og indexinn
 	b) git diff --staged        : ber saman breytingar á milli index og head
 	c) git diff commit1 commit2 : ber saman þessar tvær greinar, en ætti þetta ekki að vera 'git diff commit1 -- commit2'?
+
+4. 	Hvað er útgáfustýring (e.version control)? 
+	Það er kerfi sem heldur utan um breytingar á skjölum svo notandi geti kallað upp allar útgáfur af skjalinu / skjölunum
