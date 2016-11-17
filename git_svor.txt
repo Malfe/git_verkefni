@@ -33,3 +33,9 @@ Git spurningar og svör
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 	Í hvert skipti sem notandi er kominn með eitthvað sem virkar, þegar það er orðið langt síðan að notandi commitaði seinast - ætti samt að committa þá á nýja grein ef kóðinn er ókláraður.
 	Að committa oft er góð vörn gegn gagnatapi, rafmagnið fer af, windows update fer í gang, batteríið í fartölvunni er búið eða hvað sem kemur uppá.
+
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+	Working directory er git verkefnið sem Git fylgist með og ber saman local repository hjá notanda við.
+	Staging area virkar eins og kúplingin í bíl - hægt er að senda breytingarnar í staging area og kúplað til þess að skoða seinna og ákveða hvaða breytingar verða sendar.
+	Repository er local skjölin sem verið er að vinna með til þess að senda á Working directory.
