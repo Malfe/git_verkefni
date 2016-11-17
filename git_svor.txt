@@ -7,3 +7,11 @@ Git spurningar og svör
 	ls    : sýnir hvað er í völdum folder
 	pwd   : skrifar út staðsetningu foldersins sem notandi er í
 	mkdir : býr til folder
+
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone    : downloadar völdu git projecti fyrir notanda
+	git log      : sýnir allar breytingar fyrir projectið
+	git status   : sýnir öll skjöl sem eftir á að commita
+	git diff     : sýnir mismum skráa miðað við það sem er skráð í HEAD
+	git checkout : skiptir á milli "greina" ( branch ) í repository
