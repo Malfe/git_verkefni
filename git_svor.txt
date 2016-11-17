@@ -13,5 +13,10 @@ Git spurningar og svör
 	git clone    : downloadar völdu git projecti fyrir notanda
 	git log      : sýnir allar breytingar fyrir projectið
 	git status   : sýnir öll skjöl sem eftir á að commita
-	git diff     : sýnir mismum skráa miðað við það sem er skráð í HEAD
+	git diff     : ber saman working directory og indexinn
 	git checkout : skiptir á milli "greina" ( branch ) í repository
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff                 : ber saman working directory og indexinn
+	b) git diff --staged        : ber saman breytingar á milli index og head
+	c) git diff commit1 commit2 : ber saman þessar tvær greinar, en ætti þetta ekki að vera 'git diff commit1 -- commit2'?
