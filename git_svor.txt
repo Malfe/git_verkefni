@@ -43,3 +43,6 @@ Git spurningar og svör
 8.	Hvenær er sniðugt að nota greinar (branches)? 
 	Í raun alltaf, best væri að nota Master branch sem örugga útgáfu af verkefninu og "aðal greinar" útfrá því ( Developer branch ) - og síðan aðrar, minni greinar útfrá aðal greinunum sem verða mun oftar mergeaðar við aðal greinarnar heldur en Developer verður við Masterinn.
 	Auk þess er gott að nota greinar til þess að finna og gera við bugga - eða til þess að gera útgáfu grein fyrir verkefnið til þess að vera viss um að verkefnið sé alveg örugglega að virka eins og ætlað er áður en það er mergeað við Masterinn.
+
+
+-Kristmann Örn Magnússon
