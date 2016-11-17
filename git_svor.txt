@@ -39,3 +39,7 @@ Git spurningar og svör
 	Working directory er git verkefnið sem Git fylgist með og ber saman local repository hjá notanda við.
 	Staging area virkar eins og kúplingin í bíl - hægt er að senda breytingarnar í staging area og kúplað til þess að skoða seinna og ákveða hvaða breytingar verða sendar.
 	Repository er local skjölin sem verið er að vinna með til þess að senda á Working directory.
+
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+	Í raun alltaf, best væri að nota Master branch sem örugga útgáfu af verkefninu og "aðal greinar" útfrá því ( Developer branch ) - og síðan aðrar, minni greinar útfrá aðal greinunum sem verða mun oftar mergeaðar við aðal greinarnar heldur en Developer verður við Masterinn.
+	Auk þess er gott að nota greinar til þess að finna og gera við bugga - eða til þess að gera útgáfu grein fyrir verkefnið til þess að vera viss um að verkefnið sé alveg örugglega að virka eins og ætlað er áður en það er mergeað við Masterinn.
